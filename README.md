@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on any project on projects that inspire me...
 - 📫 How to reach me: 
 - - LinkedIn: https://www.linkedin.com/in/lucas777/
-- 
