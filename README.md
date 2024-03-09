@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @den7ee Lucas
-- 👀 I’m interested in Front end, Design and Linux
-- 🌱 I'm studying about Vite, React and Tailwind
+- 👀 I’m interested in Front end, Design and Devops
+- 🌱 I'm studying about Docker and Kubernetes
 - 💞️ I like to collaborate on projects that inspire me
-- 📫 How to reach me: https://www.linkedin.com/in/den7ee
+- 📫 How to reach me: https://www.linkedin.com/in/lucas92
