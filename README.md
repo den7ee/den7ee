@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @den7ee Lucas
-- 👀 I’m interested in Front end, Design and Devops
+- 👀 I’m interested in Linux, Design and Devops
 - 🌱 I'm studying about Docker and Kubernetes
-- 💞️ I like to collaborate on projects that inspire me
 - 📫 How to reach me: https://www.linkedin.com/in/lucas92
